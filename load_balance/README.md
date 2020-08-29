@@ -1,0 +1,1 @@
+1) https://medium.com/@dgryski/consistent-hashing-algorithmic-tradeoffs-ef6b8e2fcae8
