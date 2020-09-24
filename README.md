@@ -2,9 +2,6 @@ Course
 - https://www.educative.io/courses/grokking-the-system-design-interview
 - https://github.com/resumejob/system-design-algorithms
 
-Links
-- https://news.ycombinator.com/item?id=22011743
-
 API Rate Limiting
 - https://blog.cloudflare.com/counting-things-a-lot-of-different-things/
 - https://cloud.google.com/solutions/rate-limiting-strategies-techniques
@@ -31,3 +28,7 @@ Search Nearby
 - https://medium.com/@waleoyediran/spatial-indexing-with-quadtrees-b998ae49336
 - https://en.wikipedia.org/wiki/Geohash
 - https://en.wikipedia.org/wiki/Geocode
+
+
+Links
+- https://news.ycombinator.com/item?id=22011743
