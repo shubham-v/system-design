@@ -23,11 +23,11 @@ https://cloud.google.com/datastore/docs/articles/fast-and-reliable-ranking-in-da
 SEO
 - https://moz.com/beginners-guide-to-seo/how-search-engines-operate                                                                                                 
 Web Crawling
-- https://moz.com/learn/seo/robotstxt
+https://moz.com/learn/seo/robotstxt
 
 Search Nearby
-https://read.acloud.guru/location-based-search-results-with-dynamodb-and-geohash-267727e5d54f
+- https://read.acloud.guru/location-based-search-results-with-dynamodb-and-geohash-267727e5d54f
 
-https://medium.com/@waleoyediran/spatial-indexing-with-quadtrees-b998ae49336
-https://en.wikipedia.org/wiki/Geohash
-https://en.wikipedia.org/wiki/Geocode
+- https://medium.com/@waleoyediran/spatial-indexing-with-quadtrees-b998ae49336
+- https://en.wikipedia.org/wiki/Geohash
+- https://en.wikipedia.org/wiki/Geocode
