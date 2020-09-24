@@ -21,7 +21,7 @@ Ranking
 https://cloud.google.com/datastore/docs/articles/fast-and-reliable-ranking-in-datastore
 
 SEO
-- https://moz.com/beginners-guide-to-seo/how-search-engines-operate
+- https://moz.com/beginners-guide-to-seo/how-search-engines-operate                                                                                                 
 Web Crawling
 - https://moz.com/learn/seo/robotstxt
 
